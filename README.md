@@ -7,7 +7,7 @@ Calculate the interquartile range (IQR)
 Draw histogram of the IMDb ratings
 Identify the highest-rated and lowest-rated episodes
 Display overall statistics, such as the number of episodes and the average rating
-Create a boxplot of the IMDb ratings
+Create a boxplot of the IMDb ratings etc.
 
 ### Dataset
 The project utilizes a dataset containing the IMDb scores for each episode of the Game of Thrones series. The dataset can be found in the data folder and is named got_episodes.csv.
